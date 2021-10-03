@@ -164,9 +164,10 @@ p {
   margin: 20px 10px;
 }
 
-@media (max-width: 1028px) {
+/*---------------------------------------- Media -----------------------------------------*/
 
-  #title {
+@media (max-width: 1028px) {
+  .col-lg-6 {
     text-align: center;
   }
 
